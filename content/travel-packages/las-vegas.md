@@ -1,5 +1,5 @@
 ---
-title: Las Vegas
+title: Las Vegas USA
 travel-dates: August 10, 2024 - September 1, 2024
 featured-image: ../../static/images/las-vegas.jpg
 ---
