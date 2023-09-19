@@ -1,5 +1,5 @@
 ---
-title: New York on New Year's Eve helekfdsfdsf
+title: "New York on New Year's Eve "
 travel-dates: December 31st, 2024 - January 10th, 2025
 featured-image: ../../static/images/new-york.jpg
 ---
