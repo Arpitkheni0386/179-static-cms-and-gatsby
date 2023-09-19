@@ -9,6 +9,7 @@ import { Container, Row, Col, Card } from "react-bootstrap"
 
 const IndexPage = ({data}) => (
   <Layout>
+  {console.log('data: ', data)}
     <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
    <Container>
       <h1>Static CMS & Gatsby Sample</h1>

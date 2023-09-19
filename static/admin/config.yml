@@ -17,3 +17,12 @@ collections:
       - { label: "Travel Dates", name: "travel-dates", widget: "string" }
       - { label: "Featured Image", name: featured-image, widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name : "block"
+    preview: false
+    label: "block Data"
+    folder: "content/block-data"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Featured Image", name: featured-image, widget: image }
+      - { name: description, label: Description }
